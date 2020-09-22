@@ -237,3 +237,4 @@ def q2erro():
 
 
 janela.mainloop()
+
