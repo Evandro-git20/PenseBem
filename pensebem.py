@@ -105,7 +105,7 @@ else:
 
 print()
 print('QUESTÃO 17')
-print(' Dormi de      estou com dor no       preciso tomar um        .')
+print(' Dormi de     estou com dor no       preciso tomar um        .')
 print('[a] Mau jeito, pescoço, rémedio '
       '[b] Mal jeito, pescoço, remedio '
       '[c] Mau jeito, pescoso, rémedio ')
